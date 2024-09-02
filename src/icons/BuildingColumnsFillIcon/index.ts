@@ -1,0 +1,1 @@
+export { default as BuildingColumnsFillIcon } from './BuildingColumnsFillIcon'

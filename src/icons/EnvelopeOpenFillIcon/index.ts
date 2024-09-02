@@ -1,0 +1,1 @@
+export { default as EnvelopeOpenFillIcon } from './EnvelopeOpenFillIcon'

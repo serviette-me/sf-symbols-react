@@ -1,0 +1,1 @@
+export { default as ChineseyuanrenminbisignIcon } from './ChineseyuanrenminbisignIcon'

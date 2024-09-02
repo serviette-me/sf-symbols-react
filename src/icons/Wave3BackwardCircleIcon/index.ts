@@ -1,0 +1,1 @@
+export { default as Wave3BackwardCircleIcon } from './Wave3BackwardCircleIcon'

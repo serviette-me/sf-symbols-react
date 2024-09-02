@@ -1,0 +1,1 @@
+export { default as MosaicFillIcon } from './MosaicFillIcon'

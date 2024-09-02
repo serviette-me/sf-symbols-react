@@ -1,0 +1,1 @@
+export { default as LampCeilingFillIcon } from './LampCeilingFillIcon'

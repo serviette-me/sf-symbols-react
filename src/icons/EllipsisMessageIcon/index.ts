@@ -1,0 +1,1 @@
+export { default as EllipsisMessageIcon } from './EllipsisMessageIcon'

@@ -1,0 +1,1 @@
+export { default as BubbleLeftAndExclamationmarkBubbleRightIcon } from './BubbleLeftAndExclamationmarkBubbleRightIcon'

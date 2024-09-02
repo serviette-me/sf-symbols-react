@@ -1,0 +1,1 @@
+export { default as TextformatSuperscriptIcon } from './TextformatSuperscriptIcon'

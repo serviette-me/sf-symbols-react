@@ -1,0 +1,1 @@
+export { default as Battery25percentIcon } from './Battery25percentIcon'

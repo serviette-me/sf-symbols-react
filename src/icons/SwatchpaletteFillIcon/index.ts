@@ -1,0 +1,1 @@
+export { default as SwatchpaletteFillIcon } from './SwatchpaletteFillIcon'

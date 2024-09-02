@@ -1,0 +1,1 @@
+export { default as Person2GobackwardIcon } from './Person2GobackwardIcon'

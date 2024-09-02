@@ -1,0 +1,1 @@
+export { default as PipeAndDropIcon } from './PipeAndDropIcon'

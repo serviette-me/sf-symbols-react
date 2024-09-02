@@ -1,0 +1,1 @@
+export { default as HandRaisedSlashIcon } from './HandRaisedSlashIcon'

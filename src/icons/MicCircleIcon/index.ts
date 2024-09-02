@@ -1,0 +1,1 @@
+export { default as MicCircleIcon } from './MicCircleIcon'

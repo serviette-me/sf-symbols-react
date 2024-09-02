@@ -1,0 +1,1 @@
+export { default as LightswitchOnFillIcon } from './LightswitchOnFillIcon'

@@ -1,0 +1,1 @@
+export { default as BarometerIcon } from './BarometerIcon'

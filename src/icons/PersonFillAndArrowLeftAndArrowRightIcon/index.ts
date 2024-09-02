@@ -1,0 +1,1 @@
+export { default as PersonFillAndArrowLeftAndArrowRightIcon } from './PersonFillAndArrowLeftAndArrowRightIcon'

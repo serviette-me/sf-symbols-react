@@ -1,0 +1,1 @@
+export { default as EllipsisCurlybracesIcon } from './EllipsisCurlybracesIcon'

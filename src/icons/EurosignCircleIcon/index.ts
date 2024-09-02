@@ -1,0 +1,1 @@
+export { default as EurosignCircleIcon } from './EurosignCircleIcon'

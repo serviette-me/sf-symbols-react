@@ -1,0 +1,1 @@
+export { default as ExclamationmarkBubbleCircleFillIcon } from './ExclamationmarkBubbleCircleFillIcon'

@@ -1,0 +1,1 @@
+export { default as ArcadeStickAndArrowRightIcon } from './ArcadeStickAndArrowRightIcon'

@@ -1,0 +1,1 @@
+export { default as IphoneGen3SlashIcon } from './IphoneGen3SlashIcon'

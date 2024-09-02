@@ -1,0 +1,1 @@
+export { default as RectanglePortraitArrowtriangle2OutwardIcon } from './RectanglePortraitArrowtriangle2OutwardIcon'

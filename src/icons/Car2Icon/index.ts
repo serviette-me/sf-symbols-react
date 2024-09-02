@@ -1,0 +1,1 @@
+export { default as Car2Icon } from './Car2Icon'

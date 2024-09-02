@@ -1,0 +1,1 @@
+export { default as Mountain2FillIcon } from './Mountain2FillIcon'

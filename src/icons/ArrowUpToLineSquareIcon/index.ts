@@ -1,0 +1,1 @@
+export { default as ArrowUpToLineSquareIcon } from './ArrowUpToLineSquareIcon'

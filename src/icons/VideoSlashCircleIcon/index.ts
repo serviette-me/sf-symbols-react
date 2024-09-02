@@ -1,0 +1,1 @@
+export { default as VideoSlashCircleIcon } from './VideoSlashCircleIcon'

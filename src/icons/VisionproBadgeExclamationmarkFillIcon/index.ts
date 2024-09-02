@@ -1,0 +1,1 @@
+export { default as VisionproBadgeExclamationmarkFillIcon } from './VisionproBadgeExclamationmarkFillIcon'

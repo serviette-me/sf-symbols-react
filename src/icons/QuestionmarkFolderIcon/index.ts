@@ -1,0 +1,1 @@
+export { default as QuestionmarkFolderIcon } from './QuestionmarkFolderIcon'

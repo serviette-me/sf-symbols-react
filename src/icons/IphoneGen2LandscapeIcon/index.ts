@@ -1,0 +1,1 @@
+export { default as IphoneGen2LandscapeIcon } from './IphoneGen2LandscapeIcon'

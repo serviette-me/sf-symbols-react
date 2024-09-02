@@ -1,0 +1,1 @@
+export { default as FigureWalkDiamondFillIcon } from './FigureWalkDiamondFillIcon'

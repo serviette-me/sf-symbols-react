@@ -1,0 +1,1 @@
+export { default as RectangleGrid1x2FillIcon } from './RectangleGrid1x2FillIcon'

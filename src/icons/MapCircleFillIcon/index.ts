@@ -1,0 +1,1 @@
+export { default as MapCircleFillIcon } from './MapCircleFillIcon'

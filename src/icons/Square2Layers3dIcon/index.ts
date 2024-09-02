@@ -1,0 +1,1 @@
+export { default as Square2Layers3dIcon } from './Square2Layers3dIcon'

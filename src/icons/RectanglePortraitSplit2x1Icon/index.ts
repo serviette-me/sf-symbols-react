@@ -1,0 +1,1 @@
+export { default as RectanglePortraitSplit2x1Icon } from './RectanglePortraitSplit2x1Icon'

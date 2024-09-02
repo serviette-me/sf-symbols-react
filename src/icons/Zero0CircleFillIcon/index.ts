@@ -1,0 +1,1 @@
+export { default as Zero0CircleFillIcon } from './Zero0CircleFillIcon'

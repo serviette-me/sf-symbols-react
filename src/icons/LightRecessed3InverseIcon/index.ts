@@ -1,0 +1,1 @@
+export { default as LightRecessed3InverseIcon } from './LightRecessed3InverseIcon'

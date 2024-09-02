@@ -1,0 +1,1 @@
+export { default as PlusAppIcon } from './PlusAppIcon'

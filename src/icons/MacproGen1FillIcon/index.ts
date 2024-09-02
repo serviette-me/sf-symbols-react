@@ -1,0 +1,1 @@
+export { default as MacproGen1FillIcon } from './MacproGen1FillIcon'

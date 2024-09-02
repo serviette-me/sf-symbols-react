@@ -1,0 +1,1 @@
+export { default as TruckPickupSideArrowtriangleUpArrowtriangleDownIcon } from './TruckPickupSideArrowtriangleUpArrowtriangleDownIcon'

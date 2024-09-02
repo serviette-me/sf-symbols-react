@@ -1,0 +1,1 @@
+export { default as Simcard2FillIcon } from './Simcard2FillIcon'

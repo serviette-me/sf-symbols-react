@@ -1,0 +1,1 @@
+export { default as TextLineFirstAndArrowtriangleForwardIcon } from './TextLineFirstAndArrowtriangleForwardIcon'

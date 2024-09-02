@@ -1,0 +1,1 @@
+export { default as GreetingcardFillIcon } from './GreetingcardFillIcon'

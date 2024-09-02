@@ -1,0 +1,1 @@
+export { default as DieFace1FillIcon } from './DieFace1FillIcon'

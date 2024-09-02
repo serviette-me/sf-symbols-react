@@ -1,0 +1,1 @@
+export { default as ApplewatchAndArrowForwardIcon } from './ApplewatchAndArrowForwardIcon'

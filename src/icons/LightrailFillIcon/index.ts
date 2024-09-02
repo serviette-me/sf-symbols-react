@@ -1,0 +1,1 @@
+export { default as LightrailFillIcon } from './LightrailFillIcon'

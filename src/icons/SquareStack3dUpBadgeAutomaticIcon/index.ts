@@ -1,0 +1,1 @@
+export { default as SquareStack3dUpBadgeAutomaticIcon } from './SquareStack3dUpBadgeAutomaticIcon'

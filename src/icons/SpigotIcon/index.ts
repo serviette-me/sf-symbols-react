@@ -1,0 +1,1 @@
+export { default as SpigotIcon } from './SpigotIcon'

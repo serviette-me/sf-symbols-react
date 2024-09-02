@@ -1,0 +1,1 @@
+export { default as CapsuleIcon } from './CapsuleIcon'

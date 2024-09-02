@@ -1,0 +1,1 @@
+export { default as TextBookClosedFillIcon } from './TextBookClosedFillIcon'

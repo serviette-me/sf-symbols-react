@@ -1,0 +1,1 @@
+export { default as Point3FilledConnectedTrianglepathDottedIcon } from './Point3FilledConnectedTrianglepathDottedIcon'

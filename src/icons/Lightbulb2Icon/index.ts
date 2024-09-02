@@ -1,0 +1,1 @@
+export { default as Lightbulb2Icon } from './Lightbulb2Icon'

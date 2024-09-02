@@ -1,0 +1,1 @@
+export { default as PersonCropCircleDashedIcon } from './PersonCropCircleDashedIcon'

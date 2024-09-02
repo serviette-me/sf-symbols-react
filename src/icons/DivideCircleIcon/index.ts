@@ -1,0 +1,1 @@
+export { default as DivideCircleIcon } from './DivideCircleIcon'

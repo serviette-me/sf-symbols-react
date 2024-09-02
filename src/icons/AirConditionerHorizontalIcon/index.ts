@@ -1,0 +1,1 @@
+export { default as AirConditionerHorizontalIcon } from './AirConditionerHorizontalIcon'

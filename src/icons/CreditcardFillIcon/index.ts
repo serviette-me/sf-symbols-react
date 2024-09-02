@@ -1,0 +1,1 @@
+export { default as CreditcardFillIcon } from './CreditcardFillIcon'

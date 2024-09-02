@@ -1,0 +1,1 @@
+export { default as CarFrontWavesDownFillIcon } from './CarFrontWavesDownFillIcon'

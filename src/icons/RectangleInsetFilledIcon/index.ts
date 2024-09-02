@@ -1,0 +1,1 @@
+export { default as RectangleInsetFilledIcon } from './RectangleInsetFilledIcon'

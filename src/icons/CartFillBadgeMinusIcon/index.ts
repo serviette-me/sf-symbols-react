@@ -1,0 +1,1 @@
+export { default as CartFillBadgeMinusIcon } from './CartFillBadgeMinusIcon'

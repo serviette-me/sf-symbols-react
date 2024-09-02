@@ -1,0 +1,1 @@
+export { default as TextformatSizeIcon } from './TextformatSizeIcon'

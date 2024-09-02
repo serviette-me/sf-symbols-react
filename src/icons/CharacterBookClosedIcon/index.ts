@@ -1,0 +1,1 @@
+export { default as CharacterBookClosedIcon } from './CharacterBookClosedIcon'

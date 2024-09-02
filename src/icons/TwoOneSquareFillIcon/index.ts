@@ -1,0 +1,1 @@
+export { default as TwoOneSquareFillIcon } from './TwoOneSquareFillIcon'

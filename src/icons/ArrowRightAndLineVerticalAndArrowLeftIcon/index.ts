@@ -1,0 +1,1 @@
+export { default as ArrowRightAndLineVerticalAndArrowLeftIcon } from './ArrowRightAndLineVerticalAndArrowLeftIcon'

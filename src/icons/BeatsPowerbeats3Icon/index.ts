@@ -1,0 +1,1 @@
+export { default as BeatsPowerbeats3Icon } from './BeatsPowerbeats3Icon'

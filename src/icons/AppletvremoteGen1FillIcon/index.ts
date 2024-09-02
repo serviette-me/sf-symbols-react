@@ -1,0 +1,1 @@
+export { default as AppletvremoteGen1FillIcon } from './AppletvremoteGen1FillIcon'

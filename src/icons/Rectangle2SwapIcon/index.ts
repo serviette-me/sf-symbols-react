@@ -1,0 +1,1 @@
+export { default as Rectangle2SwapIcon } from './Rectangle2SwapIcon'

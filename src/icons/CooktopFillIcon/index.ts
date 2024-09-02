@@ -1,0 +1,1 @@
+export { default as CooktopFillIcon } from './CooktopFillIcon'

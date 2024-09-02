@@ -1,0 +1,1 @@
+export { default as EqualSquareIcon } from './EqualSquareIcon'

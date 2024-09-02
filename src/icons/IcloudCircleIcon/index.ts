@@ -1,0 +1,1 @@
+export { default as IcloudCircleIcon } from './IcloudCircleIcon'

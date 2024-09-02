@@ -1,0 +1,1 @@
+export { default as SquareSplitDiagonal2x2FillIcon } from './SquareSplitDiagonal2x2FillIcon'

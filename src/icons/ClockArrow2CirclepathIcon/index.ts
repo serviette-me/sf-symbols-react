@@ -1,0 +1,1 @@
+export { default as ClockArrow2CirclepathIcon } from './ClockArrow2CirclepathIcon'

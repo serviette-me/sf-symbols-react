@@ -1,0 +1,1 @@
+export { default as PillsIcon } from './PillsIcon'

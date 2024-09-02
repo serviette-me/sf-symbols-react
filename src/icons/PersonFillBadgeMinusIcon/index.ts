@@ -1,0 +1,1 @@
+export { default as PersonFillBadgeMinusIcon } from './PersonFillBadgeMinusIcon'

@@ -1,0 +1,1 @@
+export { default as DocBadgeClockIcon } from './DocBadgeClockIcon'

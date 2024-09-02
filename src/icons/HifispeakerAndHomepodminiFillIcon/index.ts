@@ -1,0 +1,1 @@
+export { default as HifispeakerAndHomepodminiFillIcon } from './HifispeakerAndHomepodminiFillIcon'

@@ -1,0 +1,1 @@
+export { default as WindSnowCircleFillIcon } from './WindSnowCircleFillIcon'

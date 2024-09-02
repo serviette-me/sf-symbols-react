@@ -1,0 +1,1 @@
+export { default as Gearshape2FillIcon } from './Gearshape2FillIcon'

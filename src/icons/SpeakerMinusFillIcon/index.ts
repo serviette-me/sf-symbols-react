@@ -1,0 +1,1 @@
+export { default as SpeakerMinusFillIcon } from './SpeakerMinusFillIcon'

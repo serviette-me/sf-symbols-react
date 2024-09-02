@@ -1,0 +1,1 @@
+export { default as FigureCoreTrainingIcon } from './FigureCoreTrainingIcon'

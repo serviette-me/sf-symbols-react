@@ -1,0 +1,1 @@
+export { default as SmokeIcon } from './SmokeIcon'

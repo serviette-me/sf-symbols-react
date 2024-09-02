@@ -1,0 +1,1 @@
+export { default as ArrowUpDocOnClipboardIcon } from './ArrowUpDocOnClipboardIcon'

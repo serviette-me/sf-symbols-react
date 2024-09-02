@@ -1,0 +1,1 @@
+export { default as MicSlashIcon } from './MicSlashIcon'

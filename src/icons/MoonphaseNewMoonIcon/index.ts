@@ -1,0 +1,1 @@
+export { default as MoonphaseNewMoonIcon } from './MoonphaseNewMoonIcon'

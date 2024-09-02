@@ -1,0 +1,1 @@
+export { default as FlagCheckered2CrossedIcon } from './FlagCheckered2CrossedIcon'

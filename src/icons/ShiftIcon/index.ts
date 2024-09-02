@@ -1,0 +1,1 @@
+export { default as ShiftIcon } from './ShiftIcon'

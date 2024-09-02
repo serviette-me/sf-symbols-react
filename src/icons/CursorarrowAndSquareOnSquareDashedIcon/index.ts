@@ -1,0 +1,1 @@
+export { default as CursorarrowAndSquareOnSquareDashedIcon } from './CursorarrowAndSquareOnSquareDashedIcon'

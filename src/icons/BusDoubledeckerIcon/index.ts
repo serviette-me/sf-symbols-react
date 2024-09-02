@@ -1,0 +1,1 @@
+export { default as BusDoubledeckerIcon } from './BusDoubledeckerIcon'

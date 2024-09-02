@@ -1,0 +1,1 @@
+export { default as QuoteClosingIcon } from './QuoteClosingIcon'

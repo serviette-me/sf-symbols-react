@@ -1,0 +1,1 @@
+export { default as CellularbarsIcon } from './CellularbarsIcon'

@@ -1,0 +1,1 @@
+export { default as IpadGen1LandscapeBadgePlayIcon } from './IpadGen1LandscapeBadgePlayIcon'

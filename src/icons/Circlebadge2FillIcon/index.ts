@@ -1,0 +1,1 @@
+export { default as Circlebadge2FillIcon } from './Circlebadge2FillIcon'

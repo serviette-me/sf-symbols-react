@@ -1,0 +1,1 @@
+export { default as FryingPanIcon } from './FryingPanIcon'

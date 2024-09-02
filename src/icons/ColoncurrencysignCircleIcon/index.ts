@@ -1,0 +1,1 @@
+export { default as ColoncurrencysignCircleIcon } from './ColoncurrencysignCircleIcon'

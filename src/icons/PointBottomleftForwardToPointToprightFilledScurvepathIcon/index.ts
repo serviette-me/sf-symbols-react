@@ -1,0 +1,1 @@
+export { default as PointBottomleftForwardToPointToprightFilledScurvepathIcon } from './PointBottomleftForwardToPointToprightFilledScurvepathIcon'

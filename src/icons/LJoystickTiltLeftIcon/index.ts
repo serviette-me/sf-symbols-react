@@ -1,0 +1,1 @@
+export { default as LJoystickTiltLeftIcon } from './LJoystickTiltLeftIcon'

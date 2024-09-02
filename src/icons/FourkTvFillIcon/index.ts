@@ -1,0 +1,1 @@
+export { default as FourkTvFillIcon } from './FourkTvFillIcon'

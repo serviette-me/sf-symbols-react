@@ -1,0 +1,1 @@
+export { default as LarisignCircleFillIcon } from './LarisignCircleFillIcon'

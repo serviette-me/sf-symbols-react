@@ -1,0 +1,1 @@
+export { default as ArrowshapeZigzagForwardIcon } from './ArrowshapeZigzagForwardIcon'

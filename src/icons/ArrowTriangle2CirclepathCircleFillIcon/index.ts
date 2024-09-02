@@ -1,0 +1,1 @@
+export { default as ArrowTriangle2CirclepathCircleFillIcon } from './ArrowTriangle2CirclepathCircleFillIcon'

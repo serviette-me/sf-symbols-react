@@ -1,0 +1,1 @@
+export { default as Balloon2Icon } from './Balloon2Icon'

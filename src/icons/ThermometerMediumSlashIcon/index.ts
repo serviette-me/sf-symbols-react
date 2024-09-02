@@ -1,0 +1,1 @@
+export { default as ThermometerMediumSlashIcon } from './ThermometerMediumSlashIcon'

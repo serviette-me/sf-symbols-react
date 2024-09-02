@@ -1,0 +1,1 @@
+export { default as WaveformPathEcgRectangleFillIcon } from './WaveformPathEcgRectangleFillIcon'

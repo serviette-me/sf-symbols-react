@@ -1,0 +1,1 @@
+export { default as HumidifierAndDropletsFillIcon } from './HumidifierAndDropletsFillIcon'

@@ -1,0 +1,1 @@
+export { default as IpadGen2Icon } from './IpadGen2Icon'

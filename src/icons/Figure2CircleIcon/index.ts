@@ -1,0 +1,1 @@
+export { default as Figure2CircleIcon } from './Figure2CircleIcon'

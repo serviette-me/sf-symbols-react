@@ -1,0 +1,1 @@
+export { default as BSquareIcon } from './BSquareIcon'

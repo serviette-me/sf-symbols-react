@@ -1,0 +1,1 @@
+export { default as RectangleRatio9To16Icon } from './RectangleRatio9To16Icon'

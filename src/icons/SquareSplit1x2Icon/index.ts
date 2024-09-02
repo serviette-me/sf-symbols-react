@@ -1,0 +1,1 @@
+export { default as SquareSplit1x2Icon } from './SquareSplit1x2Icon'

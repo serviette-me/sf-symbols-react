@@ -1,0 +1,1 @@
+export { default as ShadowIcon } from './ShadowIcon'

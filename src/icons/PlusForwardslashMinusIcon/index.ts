@@ -1,0 +1,1 @@
+export { default as PlusForwardslashMinusIcon } from './PlusForwardslashMinusIcon'

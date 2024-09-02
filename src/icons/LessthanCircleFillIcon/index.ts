@@ -1,0 +1,1 @@
+export { default as LessthanCircleFillIcon } from './LessthanCircleFillIcon'

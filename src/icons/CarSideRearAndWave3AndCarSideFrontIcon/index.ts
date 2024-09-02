@@ -1,0 +1,1 @@
+export { default as CarSideRearAndWave3AndCarSideFrontIcon } from './CarSideRearAndWave3AndCarSideFrontIcon'

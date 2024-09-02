@@ -1,0 +1,1 @@
+export { default as SquareFillAndLineVerticalAndSquareFillIcon } from './SquareFillAndLineVerticalAndSquareFillIcon'

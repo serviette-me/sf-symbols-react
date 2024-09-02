@@ -1,0 +1,1 @@
+export { default as QuestionmarkAppIcon } from './QuestionmarkAppIcon'

@@ -1,0 +1,1 @@
+export { default as Rotate3dIcon } from './Rotate3dIcon'

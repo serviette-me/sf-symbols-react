@@ -1,0 +1,1 @@
+export { default as SterlingsignCircleIcon } from './SterlingsignCircleIcon'

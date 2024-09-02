@@ -1,0 +1,1 @@
+export { default as ScissorsBadgeEllipsisIcon } from './ScissorsBadgeEllipsisIcon'

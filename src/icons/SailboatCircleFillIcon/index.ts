@@ -1,0 +1,1 @@
+export { default as SailboatCircleFillIcon } from './SailboatCircleFillIcon'

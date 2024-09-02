@@ -1,0 +1,1 @@
+export { default as View3dIcon } from './View3dIcon'

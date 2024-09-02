@@ -1,0 +1,1 @@
+export { default as LocationFillIcon } from './LocationFillIcon'

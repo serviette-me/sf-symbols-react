@@ -1,0 +1,1 @@
+export { default as HeadlightLowBeamFillIcon } from './HeadlightLowBeamFillIcon'

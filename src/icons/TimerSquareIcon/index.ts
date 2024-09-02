@@ -1,0 +1,1 @@
+export { default as TimerSquareIcon } from './TimerSquareIcon'

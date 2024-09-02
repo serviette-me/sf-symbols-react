@@ -1,0 +1,1 @@
+export { default as ShippingboxCircleIcon } from './ShippingboxCircleIcon'

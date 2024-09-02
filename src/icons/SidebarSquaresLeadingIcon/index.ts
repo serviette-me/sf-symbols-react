@@ -1,0 +1,1 @@
+export { default as SidebarSquaresLeadingIcon } from './SidebarSquaresLeadingIcon'

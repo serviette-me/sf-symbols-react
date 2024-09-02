@@ -1,0 +1,1 @@
+export { default as HandThumbsdownCircleIcon } from './HandThumbsdownCircleIcon'

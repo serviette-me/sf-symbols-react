@@ -1,0 +1,1 @@
+export { default as ArrowCounterclockwiseSquareFillIcon } from './ArrowCounterclockwiseSquareFillIcon'

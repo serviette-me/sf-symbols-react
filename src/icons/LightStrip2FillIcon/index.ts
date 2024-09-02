@@ -1,0 +1,1 @@
+export { default as LightStrip2FillIcon } from './LightStrip2FillIcon'

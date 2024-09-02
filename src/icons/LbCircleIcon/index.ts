@@ -1,0 +1,1 @@
+export { default as LbCircleIcon } from './LbCircleIcon'

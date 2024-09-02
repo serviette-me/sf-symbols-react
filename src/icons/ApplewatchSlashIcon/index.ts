@@ -1,0 +1,1 @@
+export { default as ApplewatchSlashIcon } from './ApplewatchSlashIcon'

@@ -1,0 +1,1 @@
+export { default as SkateboardIcon } from './SkateboardIcon'

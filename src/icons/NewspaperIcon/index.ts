@@ -1,0 +1,1 @@
+export { default as NewspaperIcon } from './NewspaperIcon'

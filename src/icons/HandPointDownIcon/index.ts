@@ -1,0 +1,1 @@
+export { default as HandPointDownIcon } from './HandPointDownIcon'

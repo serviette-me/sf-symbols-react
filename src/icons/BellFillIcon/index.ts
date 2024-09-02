@@ -1,0 +1,1 @@
+export { default as BellFillIcon } from './BellFillIcon'

@@ -1,0 +1,1 @@
+export { default as FSquareIcon } from './FSquareIcon'

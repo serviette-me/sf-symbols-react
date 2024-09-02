@@ -1,0 +1,1 @@
+export { default as WaterWavesAndArrowDownTrianglebadgeExclamationmarkIcon } from './WaterWavesAndArrowDownTrianglebadgeExclamationmarkIcon'

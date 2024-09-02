@@ -1,0 +1,1 @@
+export { default as CedisignSquareFillIcon } from './CedisignSquareFillIcon'

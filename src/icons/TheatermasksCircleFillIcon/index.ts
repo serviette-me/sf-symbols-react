@@ -1,0 +1,1 @@
+export { default as TheatermasksCircleFillIcon } from './TheatermasksCircleFillIcon'

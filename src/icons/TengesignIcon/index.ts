@@ -1,0 +1,1 @@
+export { default as TengesignIcon } from './TengesignIcon'

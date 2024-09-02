@@ -1,0 +1,1 @@
+export { default as StaroflifeCircleIcon } from './StaroflifeCircleIcon'

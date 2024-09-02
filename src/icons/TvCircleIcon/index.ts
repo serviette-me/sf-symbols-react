@@ -1,0 +1,1 @@
+export { default as TvCircleIcon } from './TvCircleIcon'

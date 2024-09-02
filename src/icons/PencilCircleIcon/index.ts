@@ -1,0 +1,1 @@
+export { default as PencilCircleIcon } from './PencilCircleIcon'

@@ -1,0 +1,1 @@
+export { default as SlashCircleFillIcon } from './SlashCircleFillIcon'

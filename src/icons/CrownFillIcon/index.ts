@@ -1,0 +1,1 @@
+export { default as CrownFillIcon } from './CrownFillIcon'

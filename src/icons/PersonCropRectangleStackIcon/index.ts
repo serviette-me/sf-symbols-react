@@ -1,0 +1,1 @@
+export { default as PersonCropRectangleStackIcon } from './PersonCropRectangleStackIcon'

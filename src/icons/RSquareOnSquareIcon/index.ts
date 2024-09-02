@@ -1,0 +1,1 @@
+export { default as RSquareOnSquareIcon } from './RSquareOnSquareIcon'

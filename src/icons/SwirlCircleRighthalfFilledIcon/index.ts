@@ -1,0 +1,1 @@
+export { default as SwirlCircleRighthalfFilledIcon } from './SwirlCircleRighthalfFilledIcon'

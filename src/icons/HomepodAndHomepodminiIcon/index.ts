@@ -1,0 +1,1 @@
+export { default as HomepodAndHomepodminiIcon } from './HomepodAndHomepodminiIcon'

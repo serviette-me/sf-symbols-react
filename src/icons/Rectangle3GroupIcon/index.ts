@@ -1,0 +1,1 @@
+export { default as Rectangle3GroupIcon } from './Rectangle3GroupIcon'

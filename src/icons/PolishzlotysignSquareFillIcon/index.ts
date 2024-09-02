@@ -1,0 +1,1 @@
+export { default as PolishzlotysignSquareFillIcon } from './PolishzlotysignSquareFillIcon'

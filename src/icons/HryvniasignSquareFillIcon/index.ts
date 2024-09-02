@@ -1,0 +1,1 @@
+export { default as HryvniasignSquareFillIcon } from './HryvniasignSquareFillIcon'

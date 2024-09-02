@@ -1,0 +1,1 @@
+export { default as FourlCircleFillIcon } from './FourlCircleFillIcon'

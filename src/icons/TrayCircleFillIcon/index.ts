@@ -1,0 +1,1 @@
+export { default as TrayCircleFillIcon } from './TrayCircleFillIcon'

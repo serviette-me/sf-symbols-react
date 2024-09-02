@@ -1,0 +1,1 @@
+export { default as Scale3dIcon } from './Scale3dIcon'

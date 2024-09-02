@@ -1,0 +1,1 @@
+export { default as FanBadgeAutomaticFillIcon } from './FanBadgeAutomaticFillIcon'

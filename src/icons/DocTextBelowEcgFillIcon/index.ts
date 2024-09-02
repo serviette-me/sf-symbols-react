@@ -1,0 +1,1 @@
+export { default as DocTextBelowEcgFillIcon } from './DocTextBelowEcgFillIcon'

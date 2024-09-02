@@ -1,0 +1,1 @@
+export { default as ChevronForward2Icon } from './ChevronForward2Icon'

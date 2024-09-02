@@ -1,0 +1,1 @@
+export { default as Gobackward15Icon } from './Gobackward15Icon'

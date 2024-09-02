@@ -1,0 +1,1 @@
+export { default as ShieldSlashFillIcon } from './ShieldSlashFillIcon'

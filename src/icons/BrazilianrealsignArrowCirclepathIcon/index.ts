@@ -1,0 +1,1 @@
+export { default as BrazilianrealsignArrowCirclepathIcon } from './BrazilianrealsignArrowCirclepathIcon'

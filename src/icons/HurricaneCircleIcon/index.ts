@@ -1,0 +1,1 @@
+export { default as HurricaneCircleIcon } from './HurricaneCircleIcon'

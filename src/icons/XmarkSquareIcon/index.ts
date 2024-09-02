@@ -1,0 +1,1 @@
+export { default as XmarkSquareIcon } from './XmarkSquareIcon'

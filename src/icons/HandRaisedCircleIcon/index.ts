@@ -1,0 +1,1 @@
+export { default as HandRaisedCircleIcon } from './HandRaisedCircleIcon'

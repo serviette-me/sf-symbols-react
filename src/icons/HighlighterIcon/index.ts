@@ -1,0 +1,1 @@
+export { default as HighlighterIcon } from './HighlighterIcon'

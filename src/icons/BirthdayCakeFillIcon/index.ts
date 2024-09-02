@@ -1,0 +1,1 @@
+export { default as BirthdayCakeFillIcon } from './BirthdayCakeFillIcon'

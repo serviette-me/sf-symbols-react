@@ -1,0 +1,1 @@
+export { default as BoltCarCircleFillIcon } from './BoltCarCircleFillIcon'

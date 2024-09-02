@@ -1,0 +1,1 @@
+export { default as FigureAndChildHoldinghandsIcon } from './FigureAndChildHoldinghandsIcon'

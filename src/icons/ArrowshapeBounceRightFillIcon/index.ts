@@ -1,0 +1,1 @@
+export { default as ArrowshapeBounceRightFillIcon } from './ArrowshapeBounceRightFillIcon'

@@ -1,0 +1,1 @@
+export { default as BaseballDiamondBasesIcon } from './BaseballDiamondBasesIcon'

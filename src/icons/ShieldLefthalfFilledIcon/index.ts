@@ -1,0 +1,1 @@
+export { default as ShieldLefthalfFilledIcon } from './ShieldLefthalfFilledIcon'

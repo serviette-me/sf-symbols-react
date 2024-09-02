@@ -1,0 +1,1 @@
+export { default as Hifispeaker2Icon } from './Hifispeaker2Icon'

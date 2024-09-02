@@ -1,0 +1,1 @@
+export { default as WaveformBadgePlusIcon } from './WaveformBadgePlusIcon'

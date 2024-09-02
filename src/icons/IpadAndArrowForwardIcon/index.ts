@@ -1,0 +1,1 @@
+export { default as IpadAndArrowForwardIcon } from './IpadAndArrowForwardIcon'

@@ -1,0 +1,1 @@
+export { default as BarcodeViewfinderIcon } from './BarcodeViewfinderIcon'

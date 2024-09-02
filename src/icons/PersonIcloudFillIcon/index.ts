@@ -1,0 +1,1 @@
+export { default as PersonIcloudFillIcon } from './PersonIcloudFillIcon'

@@ -1,0 +1,1 @@
+export { default as Homepodmini2FillIcon } from './Homepodmini2FillIcon'

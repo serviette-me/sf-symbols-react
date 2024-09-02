@@ -1,0 +1,1 @@
+export { default as HeadlightDaytimeIcon } from './HeadlightDaytimeIcon'

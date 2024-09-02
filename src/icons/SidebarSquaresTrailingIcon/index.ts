@@ -1,0 +1,1 @@
+export { default as SidebarSquaresTrailingIcon } from './SidebarSquaresTrailingIcon'

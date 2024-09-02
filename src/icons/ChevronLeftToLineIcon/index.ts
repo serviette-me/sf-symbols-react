@@ -1,0 +1,1 @@
+export { default as ChevronLeftToLineIcon } from './ChevronLeftToLineIcon'

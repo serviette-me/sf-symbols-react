@@ -1,0 +1,1 @@
+export { default as ExclamationmarkTriangleIcon } from './ExclamationmarkTriangleIcon'

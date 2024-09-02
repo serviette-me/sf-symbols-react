@@ -1,0 +1,1 @@
+export { default as BatteryblockSlashIcon } from './BatteryblockSlashIcon'

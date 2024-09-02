@@ -1,0 +1,1 @@
+export { default as Testtube2Icon } from './Testtube2Icon'

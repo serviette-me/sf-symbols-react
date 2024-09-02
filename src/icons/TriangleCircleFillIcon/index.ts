@@ -1,0 +1,1 @@
+export { default as TriangleCircleFillIcon } from './TriangleCircleFillIcon'

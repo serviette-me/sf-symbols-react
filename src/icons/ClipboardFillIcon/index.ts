@@ -1,0 +1,1 @@
+export { default as ClipboardFillIcon } from './ClipboardFillIcon'

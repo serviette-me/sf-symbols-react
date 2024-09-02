@@ -1,0 +1,1 @@
+export { default as BellCircleFillIcon } from './BellCircleFillIcon'

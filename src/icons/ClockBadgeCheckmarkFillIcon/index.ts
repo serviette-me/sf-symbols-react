@@ -1,0 +1,1 @@
+export { default as ClockBadgeCheckmarkFillIcon } from './ClockBadgeCheckmarkFillIcon'

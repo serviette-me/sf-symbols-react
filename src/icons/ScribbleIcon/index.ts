@@ -1,0 +1,1 @@
+export { default as ScribbleIcon } from './ScribbleIcon'

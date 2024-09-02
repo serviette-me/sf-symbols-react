@@ -1,0 +1,1 @@
+export { default as LineDiagonalArrowIcon } from './LineDiagonalArrowIcon'

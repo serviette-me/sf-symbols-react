@@ -1,0 +1,1 @@
+export { default as UmbrellaFillIcon } from './UmbrellaFillIcon'

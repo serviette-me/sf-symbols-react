@@ -1,0 +1,1 @@
+export { default as DocCircleIcon } from './DocCircleIcon'

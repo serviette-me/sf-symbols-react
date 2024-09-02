@@ -1,0 +1,1 @@
+export { default as MoonphaseLastQuarterInverseIcon } from './MoonphaseLastQuarterInverseIcon'

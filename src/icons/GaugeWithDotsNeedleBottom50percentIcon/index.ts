@@ -1,0 +1,1 @@
+export { default as GaugeWithDotsNeedleBottom50percentIcon } from './GaugeWithDotsNeedleBottom50percentIcon'

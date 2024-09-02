@@ -1,0 +1,1 @@
+export { default as TimelapseIcon } from './TimelapseIcon'

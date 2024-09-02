@@ -1,0 +1,1 @@
+export { default as CubeFillIcon } from './CubeFillIcon'

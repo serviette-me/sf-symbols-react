@@ -1,0 +1,1 @@
+export { default as ThermometerSunCircleFillIcon } from './ThermometerSunCircleFillIcon'

@@ -1,0 +1,1 @@
+export { default as DistributeVerticalTopIcon } from './DistributeVerticalTopIcon'

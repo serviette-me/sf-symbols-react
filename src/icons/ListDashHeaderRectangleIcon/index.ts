@@ -1,0 +1,1 @@
+export { default as ListDashHeaderRectangleIcon } from './ListDashHeaderRectangleIcon'

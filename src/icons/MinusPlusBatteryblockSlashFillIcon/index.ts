@@ -1,0 +1,1 @@
+export { default as MinusPlusBatteryblockSlashFillIcon } from './MinusPlusBatteryblockSlashFillIcon'

@@ -1,0 +1,1 @@
+export { default as CalendarBadgePlusIcon } from './CalendarBadgePlusIcon'

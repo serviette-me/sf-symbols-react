@@ -1,0 +1,1 @@
+export { default as FigureSeatedSideAirDistributionMiddleIcon } from './FigureSeatedSideAirDistributionMiddleIcon'

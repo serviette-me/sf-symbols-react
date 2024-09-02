@@ -1,0 +1,1 @@
+export { default as EurosignIcon } from './EurosignIcon'

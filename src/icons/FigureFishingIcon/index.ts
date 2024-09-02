@@ -1,0 +1,1 @@
+export { default as FigureFishingIcon } from './FigureFishingIcon'

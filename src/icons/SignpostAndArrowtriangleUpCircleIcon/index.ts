@@ -1,0 +1,1 @@
+export { default as SignpostAndArrowtriangleUpCircleIcon } from './SignpostAndArrowtriangleUpCircleIcon'

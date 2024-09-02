@@ -1,0 +1,1 @@
+export { default as VideoprojectorIcon } from './VideoprojectorIcon'

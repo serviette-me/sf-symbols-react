@@ -1,0 +1,1 @@
+export { default as FootballCircleIcon } from './FootballCircleIcon'

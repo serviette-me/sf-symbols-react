@@ -1,0 +1,1 @@
+export { default as TextBelowPhotoIcon } from './TextBelowPhotoIcon'

@@ -1,0 +1,1 @@
+export { default as PFourButtonHorizontalFillIcon } from './PFourButtonHorizontalFillIcon'

@@ -1,0 +1,1 @@
+export { default as SteeringwheelAndHeatWavesIcon } from './SteeringwheelAndHeatWavesIcon'

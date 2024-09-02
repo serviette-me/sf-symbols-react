@@ -1,0 +1,1 @@
+export { default as SuvSideLockFillIcon } from './SuvSideLockFillIcon'

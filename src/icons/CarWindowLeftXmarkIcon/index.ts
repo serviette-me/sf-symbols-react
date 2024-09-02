@@ -1,0 +1,1 @@
+export { default as CarWindowLeftXmarkIcon } from './CarWindowLeftXmarkIcon'

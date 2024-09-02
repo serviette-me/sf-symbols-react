@@ -1,0 +1,1 @@
+export { default as BoltShieldIcon } from './BoltShieldIcon'

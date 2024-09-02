@@ -1,0 +1,1 @@
+export { default as BeatsFitproChargingcaseFillIcon } from './BeatsFitproChargingcaseFillIcon'

@@ -1,0 +1,1 @@
+export { default as VideoDoorbellIcon } from './VideoDoorbellIcon'

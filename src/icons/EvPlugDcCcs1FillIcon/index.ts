@@ -1,0 +1,1 @@
+export { default as EvPlugDcCcs1FillIcon } from './EvPlugDcCcs1FillIcon'

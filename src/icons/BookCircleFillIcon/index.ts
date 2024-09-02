@@ -1,0 +1,1 @@
+export { default as BookCircleFillIcon } from './BookCircleFillIcon'

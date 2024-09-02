@@ -1,0 +1,1 @@
+export { default as ChartBarXaxisAscendingBadgeClockIcon } from './ChartBarXaxisAscendingBadgeClockIcon'

@@ -1,0 +1,1 @@
+export { default as SunSnowCircleIcon } from './SunSnowCircleIcon'

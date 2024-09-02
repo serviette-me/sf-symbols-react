@@ -1,0 +1,1 @@
+export { default as BubbleCircleFillIcon } from './BubbleCircleFillIcon'

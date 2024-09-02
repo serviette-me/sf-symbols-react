@@ -1,0 +1,1 @@
+export { default as SliderHorizontal2SquareBadgeArrowDownIcon } from './SliderHorizontal2SquareBadgeArrowDownIcon'

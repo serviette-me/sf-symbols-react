@@ -1,0 +1,1 @@
+export { default as AppclipIcon } from './AppclipIcon'

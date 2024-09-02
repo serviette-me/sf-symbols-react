@@ -1,0 +1,1 @@
+export { default as ScribbleVariableIcon } from './ScribbleVariableIcon'

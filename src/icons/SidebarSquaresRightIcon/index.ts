@@ -1,0 +1,1 @@
+export { default as SidebarSquaresRightIcon } from './SidebarSquaresRightIcon'

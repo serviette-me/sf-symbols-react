@@ -1,0 +1,1 @@
+export { default as FossilShellFillIcon } from './FossilShellFillIcon'

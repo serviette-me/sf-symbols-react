@@ -1,0 +1,1 @@
+export { default as Axle2Icon } from './Axle2Icon'

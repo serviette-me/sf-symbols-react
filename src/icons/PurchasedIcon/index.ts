@@ -1,0 +1,1 @@
+export { default as PurchasedIcon } from './PurchasedIcon'

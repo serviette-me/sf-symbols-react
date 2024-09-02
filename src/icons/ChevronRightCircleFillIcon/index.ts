@@ -1,0 +1,1 @@
+export { default as ChevronRightCircleFillIcon } from './ChevronRightCircleFillIcon'

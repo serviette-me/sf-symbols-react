@@ -1,0 +1,1 @@
+export { default as CarseatRightMassageIcon } from './CarseatRightMassageIcon'

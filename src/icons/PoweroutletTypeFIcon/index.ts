@@ -1,0 +1,1 @@
+export { default as PoweroutletTypeFIcon } from './PoweroutletTypeFIcon'

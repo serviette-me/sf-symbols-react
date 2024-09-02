@@ -1,0 +1,1 @@
+export { default as RosetteIcon } from './RosetteIcon'

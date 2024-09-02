@@ -1,0 +1,1 @@
+export { default as HexagonFillIcon } from './HexagonFillIcon'

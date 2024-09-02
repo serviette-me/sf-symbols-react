@@ -1,0 +1,1 @@
+export { default as FigureWalkIcon } from './FigureWalkIcon'

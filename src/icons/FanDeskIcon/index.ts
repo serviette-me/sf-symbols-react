@@ -1,0 +1,1 @@
+export { default as FanDeskIcon } from './FanDeskIcon'

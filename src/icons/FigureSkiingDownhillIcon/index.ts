@@ -1,0 +1,1 @@
+export { default as FigureSkiingDownhillIcon } from './FigureSkiingDownhillIcon'

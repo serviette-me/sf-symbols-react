@@ -1,0 +1,1 @@
+export { default as ChairFillIcon } from './ChairFillIcon'

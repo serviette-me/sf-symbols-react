@@ -1,0 +1,1 @@
+export { default as MenubarDockRectangleIcon } from './MenubarDockRectangleIcon'

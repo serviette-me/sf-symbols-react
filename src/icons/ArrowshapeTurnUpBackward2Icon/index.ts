@@ -1,0 +1,1 @@
+export { default as ArrowshapeTurnUpBackward2Icon } from './ArrowshapeTurnUpBackward2Icon'

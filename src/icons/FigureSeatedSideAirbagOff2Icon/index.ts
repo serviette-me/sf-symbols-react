@@ -1,0 +1,1 @@
+export { default as FigureSeatedSideAirbagOff2Icon } from './FigureSeatedSideAirbagOff2Icon'

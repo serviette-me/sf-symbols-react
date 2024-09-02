@@ -1,0 +1,1 @@
+export { default as AltIcon } from './AltIcon'

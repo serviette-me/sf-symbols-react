@@ -1,0 +1,1 @@
+export { default as WindshieldFrontAndHeatWavesIcon } from './WindshieldFrontAndHeatWavesIcon'

@@ -1,0 +1,1 @@
+export { default as ZeroNineSquareIcon } from './ZeroNineSquareIcon'

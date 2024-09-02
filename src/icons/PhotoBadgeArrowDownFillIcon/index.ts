@@ -1,0 +1,1 @@
+export { default as PhotoBadgeArrowDownFillIcon } from './PhotoBadgeArrowDownFillIcon'

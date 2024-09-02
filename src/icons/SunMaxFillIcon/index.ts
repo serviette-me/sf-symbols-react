@@ -1,0 +1,1 @@
+export { default as SunMaxFillIcon } from './SunMaxFillIcon'

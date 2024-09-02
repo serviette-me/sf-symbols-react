@@ -1,0 +1,1 @@
+export { default as MappinAndEllipseCircleFillIcon } from './MappinAndEllipseCircleFillIcon'

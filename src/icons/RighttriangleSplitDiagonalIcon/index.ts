@@ -1,0 +1,1 @@
+export { default as RighttriangleSplitDiagonalIcon } from './RighttriangleSplitDiagonalIcon'

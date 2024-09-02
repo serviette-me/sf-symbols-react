@@ -1,0 +1,1 @@
+export { default as AirpodsGen3Icon } from './AirpodsGen3Icon'

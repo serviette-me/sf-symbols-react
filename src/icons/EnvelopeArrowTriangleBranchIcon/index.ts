@@ -1,0 +1,1 @@
+export { default as EnvelopeArrowTriangleBranchIcon } from './EnvelopeArrowTriangleBranchIcon'

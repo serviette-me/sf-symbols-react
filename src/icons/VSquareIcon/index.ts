@@ -1,0 +1,1 @@
+export { default as VSquareIcon } from './VSquareIcon'

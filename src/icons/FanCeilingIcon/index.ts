@@ -1,0 +1,1 @@
+export { default as FanCeilingIcon } from './FanCeilingIcon'

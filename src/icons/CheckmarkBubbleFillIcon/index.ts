@@ -1,0 +1,1 @@
+export { default as CheckmarkBubbleFillIcon } from './CheckmarkBubbleFillIcon'

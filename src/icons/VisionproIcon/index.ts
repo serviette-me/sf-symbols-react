@@ -1,0 +1,1 @@
+export { default as VisionproIcon } from './VisionproIcon'

@@ -1,0 +1,1 @@
+export { default as CameraMeteringSpotIcon } from './CameraMeteringSpotIcon'

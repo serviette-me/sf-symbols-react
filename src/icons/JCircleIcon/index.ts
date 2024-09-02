@@ -1,0 +1,1 @@
+export { default as JCircleIcon } from './JCircleIcon'

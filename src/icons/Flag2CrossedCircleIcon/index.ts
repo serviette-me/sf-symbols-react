@@ -1,0 +1,1 @@
+export { default as Flag2CrossedCircleIcon } from './Flag2CrossedCircleIcon'

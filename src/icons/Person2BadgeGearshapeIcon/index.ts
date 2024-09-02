@@ -1,0 +1,1 @@
+export { default as Person2BadgeGearshapeIcon } from './Person2BadgeGearshapeIcon'

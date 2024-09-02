@@ -1,0 +1,1 @@
+export { default as Three3SquareFillIcon } from './Three3SquareFillIcon'

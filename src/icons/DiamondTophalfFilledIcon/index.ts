@@ -1,0 +1,1 @@
+export { default as DiamondTophalfFilledIcon } from './DiamondTophalfFilledIcon'

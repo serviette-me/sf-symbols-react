@@ -1,0 +1,1 @@
+export { default as WCircleFillIcon } from './WCircleFillIcon'

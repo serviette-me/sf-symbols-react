@@ -1,0 +1,1 @@
+export { default as Person2FillIcon } from './Person2FillIcon'

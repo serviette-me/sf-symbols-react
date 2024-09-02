@@ -1,0 +1,1 @@
+export { default as HandDrawFillIcon } from './HandDrawFillIcon'

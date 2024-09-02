@@ -1,0 +1,1 @@
+export { default as TennisballCircleFillIcon } from './TennisballCircleFillIcon'

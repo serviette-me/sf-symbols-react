@@ -1,0 +1,1 @@
+export { default as PlusRectangleOnFolderIcon } from './PlusRectangleOnFolderIcon'

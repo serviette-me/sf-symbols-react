@@ -1,0 +1,1 @@
+export { default as KeyboardChevronCompactDownFillIcon } from './KeyboardChevronCompactDownFillIcon'

@@ -1,0 +1,1 @@
+export { default as ApplepencilGen2Icon } from './ApplepencilGen2Icon'

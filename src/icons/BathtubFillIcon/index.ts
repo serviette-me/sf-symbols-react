@@ -1,0 +1,1 @@
+export { default as BathtubFillIcon } from './BathtubFillIcon'

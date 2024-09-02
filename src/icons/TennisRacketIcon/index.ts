@@ -1,0 +1,1 @@
+export { default as TennisRacketIcon } from './TennisRacketIcon'

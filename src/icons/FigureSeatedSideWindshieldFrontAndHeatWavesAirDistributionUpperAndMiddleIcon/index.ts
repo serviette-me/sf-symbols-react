@@ -1,0 +1,1 @@
+export { default as FigureSeatedSideWindshieldFrontAndHeatWavesAirDistributionUpperAndMiddleIcon } from './FigureSeatedSideWindshieldFrontAndHeatWavesAirDistributionUpperAndMiddleIcon'

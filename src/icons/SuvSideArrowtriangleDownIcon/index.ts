@@ -1,0 +1,1 @@
+export { default as SuvSideArrowtriangleDownIcon } from './SuvSideArrowtriangleDownIcon'

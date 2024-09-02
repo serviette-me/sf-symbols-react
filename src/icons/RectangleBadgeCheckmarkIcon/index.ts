@@ -1,0 +1,1 @@
+export { default as RectangleBadgeCheckmarkIcon } from './RectangleBadgeCheckmarkIcon'

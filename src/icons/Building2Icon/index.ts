@@ -1,0 +1,1 @@
+export { default as Building2Icon } from './Building2Icon'

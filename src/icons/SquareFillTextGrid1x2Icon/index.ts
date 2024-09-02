@@ -1,0 +1,1 @@
+export { default as SquareFillTextGrid1x2Icon } from './SquareFillTextGrid1x2Icon'

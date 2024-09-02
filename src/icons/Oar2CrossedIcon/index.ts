@@ -1,0 +1,1 @@
+export { default as Oar2CrossedIcon } from './Oar2CrossedIcon'

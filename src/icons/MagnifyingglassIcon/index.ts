@@ -1,0 +1,1 @@
+export { default as MagnifyingglassIcon } from './MagnifyingglassIcon'

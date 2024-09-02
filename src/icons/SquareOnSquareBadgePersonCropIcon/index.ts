@@ -1,0 +1,1 @@
+export { default as SquareOnSquareBadgePersonCropIcon } from './SquareOnSquareBadgePersonCropIcon'

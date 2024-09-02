@@ -1,0 +1,1 @@
+export { default as HouseAndFlagCircleIcon } from './HouseAndFlagCircleIcon'

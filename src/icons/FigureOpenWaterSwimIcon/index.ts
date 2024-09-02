@@ -1,0 +1,1 @@
+export { default as FigureOpenWaterSwimIcon } from './FigureOpenWaterSwimIcon'

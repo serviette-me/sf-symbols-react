@@ -1,0 +1,1 @@
+export { default as DoorGarageClosedIcon } from './DoorGarageClosedIcon'

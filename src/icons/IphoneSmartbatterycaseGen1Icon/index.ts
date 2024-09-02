@@ -1,0 +1,1 @@
+export { default as IphoneSmartbatterycaseGen1Icon } from './IphoneSmartbatterycaseGen1Icon'

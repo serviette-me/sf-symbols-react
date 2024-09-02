@@ -1,0 +1,1 @@
+export { default as ArrowTriangle2CirclepathIcloudIcon } from './ArrowTriangle2CirclepathIcloudIcon'

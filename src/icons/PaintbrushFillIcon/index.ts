@@ -1,0 +1,1 @@
+export { default as PaintbrushFillIcon } from './PaintbrushFillIcon'

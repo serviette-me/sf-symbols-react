@@ -1,0 +1,1 @@
+export { default as CloudSunRainFillIcon } from './CloudSunRainFillIcon'

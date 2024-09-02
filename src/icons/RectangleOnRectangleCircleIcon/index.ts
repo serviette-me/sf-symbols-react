@@ -1,0 +1,1 @@
+export { default as RectangleOnRectangleCircleIcon } from './RectangleOnRectangleCircleIcon'

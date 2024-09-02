@@ -1,0 +1,1 @@
+export { default as PersonCropCircleBadgeExclamationmarkIcon } from './PersonCropCircleBadgeExclamationmarkIcon'

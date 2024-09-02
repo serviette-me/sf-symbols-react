@@ -1,0 +1,1 @@
+export { default as DivideIcon } from './DivideIcon'

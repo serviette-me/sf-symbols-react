@@ -1,0 +1,1 @@
+export { default as CpuFillIcon } from './CpuFillIcon'

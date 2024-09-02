@@ -1,0 +1,1 @@
+export { default as Line3HorizontalDecreaseCircleIcon } from './Line3HorizontalDecreaseCircleIcon'

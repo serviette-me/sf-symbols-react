@@ -1,0 +1,1 @@
+export { default as CarTopDoorFrontLeftAndFrontRightOpenFillIcon } from './CarTopDoorFrontLeftAndFrontRightOpenFillIcon'

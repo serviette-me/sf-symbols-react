@@ -1,0 +1,1 @@
+export { default as PhoneCircleIcon } from './PhoneCircleIcon'

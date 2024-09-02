@@ -1,0 +1,1 @@
+export { default as SquareAndLineVerticalAndSquareIcon } from './SquareAndLineVerticalAndSquareIcon'

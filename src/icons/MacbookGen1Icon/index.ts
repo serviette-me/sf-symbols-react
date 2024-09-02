@@ -1,0 +1,1 @@
+export { default as MacbookGen1Icon } from './MacbookGen1Icon'

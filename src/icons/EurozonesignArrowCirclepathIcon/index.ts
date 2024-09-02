@@ -1,0 +1,1 @@
+export { default as EurozonesignArrowCirclepathIcon } from './EurozonesignArrowCirclepathIcon'

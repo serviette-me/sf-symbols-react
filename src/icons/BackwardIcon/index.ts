@@ -1,0 +1,1 @@
+export { default as BackwardIcon } from './BackwardIcon'

@@ -1,0 +1,1 @@
+export { default as Tray2FillIcon } from './Tray2FillIcon'

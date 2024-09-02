@@ -1,0 +1,1 @@
+export { default as AirtagRadiowavesForwardIcon } from './AirtagRadiowavesForwardIcon'

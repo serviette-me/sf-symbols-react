@@ -1,0 +1,1 @@
+export { default as Display2Icon } from './Display2Icon'

@@ -1,0 +1,1 @@
+export { default as LockOpenIpadIcon } from './LockOpenIpadIcon'

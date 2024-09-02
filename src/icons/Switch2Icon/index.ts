@@ -1,0 +1,1 @@
+export { default as Switch2Icon } from './Switch2Icon'

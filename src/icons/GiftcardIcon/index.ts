@@ -1,0 +1,1 @@
+export { default as GiftcardIcon } from './GiftcardIcon'

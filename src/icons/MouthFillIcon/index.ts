@@ -1,0 +1,1 @@
+export { default as MouthFillIcon } from './MouthFillIcon'

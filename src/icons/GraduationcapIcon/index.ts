@@ -1,0 +1,1 @@
+export { default as GraduationcapIcon } from './GraduationcapIcon'

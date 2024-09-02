@@ -1,0 +1,1 @@
+export { default as Person3SequenceIcon } from './Person3SequenceIcon'

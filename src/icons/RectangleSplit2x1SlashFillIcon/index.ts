@@ -1,0 +1,1 @@
+export { default as RectangleSplit2x1SlashFillIcon } from './RectangleSplit2x1SlashFillIcon'

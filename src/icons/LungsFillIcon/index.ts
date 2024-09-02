@@ -1,0 +1,1 @@
+export { default as LungsFillIcon } from './LungsFillIcon'

@@ -1,0 +1,1 @@
+export { default as Goforward60Icon } from './Goforward60Icon'

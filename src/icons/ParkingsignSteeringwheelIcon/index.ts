@@ -1,0 +1,1 @@
+export { default as ParkingsignSteeringwheelIcon } from './ParkingsignSteeringwheelIcon'

@@ -1,0 +1,1 @@
+export { default as SquareArrowtriangle4OutwardIcon } from './SquareArrowtriangle4OutwardIcon'

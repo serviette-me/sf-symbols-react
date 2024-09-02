@@ -1,0 +1,1 @@
+export { default as AppletvIcon } from './AppletvIcon'

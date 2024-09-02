@@ -1,0 +1,1 @@
+export { default as FigureAmericanFootballIcon } from './FigureAmericanFootballIcon'

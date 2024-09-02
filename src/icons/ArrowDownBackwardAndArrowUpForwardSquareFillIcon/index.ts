@@ -1,0 +1,1 @@
+export { default as ArrowDownBackwardAndArrowUpForwardSquareFillIcon } from './ArrowDownBackwardAndArrowUpForwardSquareFillIcon'

@@ -1,0 +1,1 @@
+export { default as PesosignCircleIcon } from './PesosignCircleIcon'

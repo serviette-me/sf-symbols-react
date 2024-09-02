@@ -1,0 +1,1 @@
+export { default as IcloudAndArrowUpFillIcon } from './IcloudAndArrowUpFillIcon'

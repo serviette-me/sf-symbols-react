@@ -1,0 +1,1 @@
+export { default as IphoneGen2CircleFillIcon } from './IphoneGen2CircleFillIcon'

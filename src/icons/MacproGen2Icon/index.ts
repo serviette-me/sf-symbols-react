@@ -1,0 +1,1 @@
+export { default as MacproGen2Icon } from './MacproGen2Icon'

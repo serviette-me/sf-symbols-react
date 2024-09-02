@@ -1,0 +1,1 @@
+export { default as HexagonTophalfFilledIcon } from './HexagonTophalfFilledIcon'

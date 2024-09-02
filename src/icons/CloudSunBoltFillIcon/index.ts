@@ -1,0 +1,1 @@
+export { default as CloudSunBoltFillIcon } from './CloudSunBoltFillIcon'

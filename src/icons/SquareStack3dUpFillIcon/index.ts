@@ -1,0 +1,1 @@
+export { default as SquareStack3dUpFillIcon } from './SquareStack3dUpFillIcon'

@@ -1,0 +1,1 @@
+export { default as GreaterthanCircleIcon } from './GreaterthanCircleIcon'

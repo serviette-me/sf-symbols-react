@@ -1,0 +1,1 @@
+export { default as ArrowTriangle2CirclepathCameraIcon } from './ArrowTriangle2CirclepathCameraIcon'

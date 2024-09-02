@@ -1,0 +1,1 @@
+export { default as Building2CropCircleIcon } from './Building2CropCircleIcon'

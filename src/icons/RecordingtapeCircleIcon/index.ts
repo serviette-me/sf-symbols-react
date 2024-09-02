@@ -1,0 +1,1 @@
+export { default as RecordingtapeCircleIcon } from './RecordingtapeCircleIcon'

@@ -1,0 +1,1 @@
+export { default as AppleLogoIcon } from './AppleLogoIcon'

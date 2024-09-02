@@ -1,0 +1,1 @@
+export { default as BlindsHorizontalClosedIcon } from './BlindsHorizontalClosedIcon'

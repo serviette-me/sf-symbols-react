@@ -1,0 +1,1 @@
+export { default as FireworksIcon } from './FireworksIcon'

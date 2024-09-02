@@ -1,0 +1,1 @@
+export { default as CommandCircleIcon } from './CommandCircleIcon'

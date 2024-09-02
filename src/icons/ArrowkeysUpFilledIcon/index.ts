@@ -1,0 +1,1 @@
+export { default as ArrowkeysUpFilledIcon } from './ArrowkeysUpFilledIcon'

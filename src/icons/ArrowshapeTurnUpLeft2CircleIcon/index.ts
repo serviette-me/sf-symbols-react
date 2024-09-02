@@ -1,0 +1,1 @@
+export { default as ArrowshapeTurnUpLeft2CircleIcon } from './ArrowshapeTurnUpLeft2CircleIcon'

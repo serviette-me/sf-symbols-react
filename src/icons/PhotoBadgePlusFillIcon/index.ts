@@ -1,0 +1,1 @@
+export { default as PhotoBadgePlusFillIcon } from './PhotoBadgePlusFillIcon'

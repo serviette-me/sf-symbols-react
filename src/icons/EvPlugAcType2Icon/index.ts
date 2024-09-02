@@ -1,0 +1,1 @@
+export { default as EvPlugAcType2Icon } from './EvPlugAcType2Icon'

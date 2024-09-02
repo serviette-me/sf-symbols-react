@@ -1,0 +1,1 @@
+export { default as Rectangle3GroupBubbleIcon } from './Rectangle3GroupBubbleIcon'

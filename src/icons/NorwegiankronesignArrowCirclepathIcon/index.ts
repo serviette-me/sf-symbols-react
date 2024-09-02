@@ -1,0 +1,1 @@
+export { default as NorwegiankronesignArrowCirclepathIcon } from './NorwegiankronesignArrowCirclepathIcon'

@@ -1,0 +1,1 @@
+export { default as VideoFillBadgePlusIcon } from './VideoFillBadgePlusIcon'

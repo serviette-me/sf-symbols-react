@@ -1,0 +1,1 @@
+export { default as EurosignSquareFillIcon } from './EurosignSquareFillIcon'

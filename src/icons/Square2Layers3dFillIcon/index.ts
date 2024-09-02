@@ -1,0 +1,1 @@
+export { default as Square2Layers3dFillIcon } from './Square2Layers3dFillIcon'

@@ -1,0 +1,1 @@
+export { default as StarSlashIcon } from './StarSlashIcon'

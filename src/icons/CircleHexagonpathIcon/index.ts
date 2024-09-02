@@ -1,0 +1,1 @@
+export { default as CircleHexagonpathIcon } from './CircleHexagonpathIcon'

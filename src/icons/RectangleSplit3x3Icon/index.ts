@@ -1,0 +1,1 @@
+export { default as RectangleSplit3x3Icon } from './RectangleSplit3x3Icon'

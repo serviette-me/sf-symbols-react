@@ -1,0 +1,1 @@
+export { default as SquareCircleIcon } from './SquareCircleIcon'

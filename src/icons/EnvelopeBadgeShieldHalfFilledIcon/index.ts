@@ -1,0 +1,1 @@
+export { default as EnvelopeBadgeShieldHalfFilledIcon } from './EnvelopeBadgeShieldHalfFilledIcon'

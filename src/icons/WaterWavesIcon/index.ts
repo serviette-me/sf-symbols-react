@@ -1,0 +1,1 @@
+export { default as WaterWavesIcon } from './WaterWavesIcon'

@@ -1,0 +1,1 @@
+export { default as Mountain2CircleIcon } from './Mountain2CircleIcon'

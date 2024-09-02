@@ -1,0 +1,1 @@
+export { default as PlusRectangleOnRectangleIcon } from './PlusRectangleOnRectangleIcon'

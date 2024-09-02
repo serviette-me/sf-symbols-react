@@ -1,0 +1,1 @@
+export { default as OctagonBottomhalfFilledIcon } from './OctagonBottomhalfFilledIcon'

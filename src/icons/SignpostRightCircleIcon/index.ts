@@ -1,0 +1,1 @@
+export { default as SignpostRightCircleIcon } from './SignpostRightCircleIcon'

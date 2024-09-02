@@ -1,0 +1,1 @@
+export { default as ThermometerAndLiquidWavesIcon } from './ThermometerAndLiquidWavesIcon'

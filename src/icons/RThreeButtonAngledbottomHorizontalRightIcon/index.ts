@@ -1,0 +1,1 @@
+export { default as RThreeButtonAngledbottomHorizontalRightIcon } from './RThreeButtonAngledbottomHorizontalRightIcon'

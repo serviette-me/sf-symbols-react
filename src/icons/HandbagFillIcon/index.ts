@@ -1,0 +1,1 @@
+export { default as HandbagFillIcon } from './HandbagFillIcon'

@@ -1,0 +1,1 @@
+export { default as Figure2ArmsOpenIcon } from './Figure2ArmsOpenIcon'

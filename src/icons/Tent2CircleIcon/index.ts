@@ -1,0 +1,1 @@
+export { default as Tent2CircleIcon } from './Tent2CircleIcon'

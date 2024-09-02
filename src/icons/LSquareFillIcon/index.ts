@@ -1,0 +1,1 @@
+export { default as LSquareFillIcon } from './LSquareFillIcon'

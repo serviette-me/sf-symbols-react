@@ -1,0 +1,1 @@
+export { default as Platter2FilledIphoneLandscapeIcon } from './Platter2FilledIphoneLandscapeIcon'

@@ -1,0 +1,1 @@
+export { default as GlobeDeskIcon } from './GlobeDeskIcon'

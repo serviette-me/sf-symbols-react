@@ -1,0 +1,1 @@
+export { default as DotRadiowavesForwardIcon } from './DotRadiowavesForwardIcon'

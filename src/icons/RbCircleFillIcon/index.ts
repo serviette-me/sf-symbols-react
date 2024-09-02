@@ -1,0 +1,1 @@
+export { default as RbCircleFillIcon } from './RbCircleFillIcon'

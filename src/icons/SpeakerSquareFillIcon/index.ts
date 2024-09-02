@@ -1,0 +1,1 @@
+export { default as SpeakerSquareFillIcon } from './SpeakerSquareFillIcon'

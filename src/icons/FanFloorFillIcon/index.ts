@@ -1,0 +1,1 @@
+export { default as FanFloorFillIcon } from './FanFloorFillIcon'

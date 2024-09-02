@@ -1,0 +1,1 @@
+export { default as AppletvremoteGen4Icon } from './AppletvremoteGen4Icon'

@@ -1,0 +1,1 @@
+export { default as SquareResizeDownIcon } from './SquareResizeDownIcon'

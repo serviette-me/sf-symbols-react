@@ -1,0 +1,1 @@
+export { default as MicSlashCircleFillIcon } from './MicSlashCircleFillIcon'

@@ -1,0 +1,1 @@
+export { default as ArrowtriangleUpArrowtriangleDownWindowLeftIcon } from './ArrowtriangleUpArrowtriangleDownWindowLeftIcon'

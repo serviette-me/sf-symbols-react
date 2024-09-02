@@ -1,0 +1,1 @@
+export { default as ExclamationmarkCircleIcon } from './ExclamationmarkCircleIcon'

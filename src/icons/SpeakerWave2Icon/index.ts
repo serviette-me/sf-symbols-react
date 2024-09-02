@@ -1,0 +1,1 @@
+export { default as SpeakerWave2Icon } from './SpeakerWave2Icon'

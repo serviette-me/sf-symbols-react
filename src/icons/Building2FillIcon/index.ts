@@ -1,0 +1,1 @@
+export { default as Building2FillIcon } from './Building2FillIcon'

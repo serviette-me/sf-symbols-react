@@ -1,0 +1,1 @@
+export { default as TirepressureIcon } from './TirepressureIcon'

@@ -1,0 +1,1 @@
+export { default as SunSnowIcon } from './SunSnowIcon'

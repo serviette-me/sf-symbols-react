@@ -1,0 +1,1 @@
+export { default as SquareGrid3x2Icon } from './SquareGrid3x2Icon'

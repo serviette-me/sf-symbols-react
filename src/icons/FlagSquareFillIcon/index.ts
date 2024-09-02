@@ -1,0 +1,1 @@
+export { default as FlagSquareFillIcon } from './FlagSquareFillIcon'

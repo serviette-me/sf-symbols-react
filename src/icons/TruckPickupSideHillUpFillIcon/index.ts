@@ -1,0 +1,1 @@
+export { default as TruckPickupSideHillUpFillIcon } from './TruckPickupSideHillUpFillIcon'

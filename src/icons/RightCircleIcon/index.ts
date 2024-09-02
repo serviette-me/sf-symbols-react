@@ -1,0 +1,1 @@
+export { default as RightCircleIcon } from './RightCircleIcon'

@@ -1,0 +1,1 @@
+export { default as LockIphoneIcon } from './LockIphoneIcon'

@@ -1,0 +1,1 @@
+export { default as DocTextImageFillIcon } from './DocTextImageFillIcon'

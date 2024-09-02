@@ -1,0 +1,1 @@
+export { default as SquareDottedIcon } from './SquareDottedIcon'

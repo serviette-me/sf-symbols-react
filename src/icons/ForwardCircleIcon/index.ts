@@ -1,0 +1,1 @@
+export { default as ForwardCircleIcon } from './ForwardCircleIcon'

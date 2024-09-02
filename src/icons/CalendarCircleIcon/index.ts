@@ -1,0 +1,1 @@
+export { default as CalendarCircleIcon } from './CalendarCircleIcon'

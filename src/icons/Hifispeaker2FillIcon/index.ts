@@ -1,0 +1,1 @@
+export { default as Hifispeaker2FillIcon } from './Hifispeaker2FillIcon'

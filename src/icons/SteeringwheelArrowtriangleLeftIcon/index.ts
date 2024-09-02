@@ -1,0 +1,1 @@
+export { default as SteeringwheelArrowtriangleLeftIcon } from './SteeringwheelArrowtriangleLeftIcon'

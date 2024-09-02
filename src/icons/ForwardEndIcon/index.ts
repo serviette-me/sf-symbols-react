@@ -1,0 +1,1 @@
+export { default as ForwardEndIcon } from './ForwardEndIcon'

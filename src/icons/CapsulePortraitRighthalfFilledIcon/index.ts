@@ -1,0 +1,1 @@
+export { default as CapsulePortraitRighthalfFilledIcon } from './CapsulePortraitRighthalfFilledIcon'

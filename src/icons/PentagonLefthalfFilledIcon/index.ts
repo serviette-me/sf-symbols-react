@@ -1,0 +1,1 @@
+export { default as PentagonLefthalfFilledIcon } from './PentagonLefthalfFilledIcon'

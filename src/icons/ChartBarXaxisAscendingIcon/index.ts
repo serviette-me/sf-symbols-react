@@ -1,0 +1,1 @@
+export { default as ChartBarXaxisAscendingIcon } from './ChartBarXaxisAscendingIcon'

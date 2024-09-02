@@ -1,0 +1,1 @@
+export { default as BedDoubleFillIcon } from './BedDoubleFillIcon'

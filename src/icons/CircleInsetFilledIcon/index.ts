@@ -1,0 +1,1 @@
+export { default as CircleInsetFilledIcon } from './CircleInsetFilledIcon'

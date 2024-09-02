@@ -1,0 +1,1 @@
+export { default as ChartPieFillIcon } from './ChartPieFillIcon'

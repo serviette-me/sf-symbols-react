@@ -1,0 +1,1 @@
+export { default as CircleGrid3x3CircleIcon } from './CircleGrid3x3CircleIcon'

@@ -1,0 +1,1 @@
+export { default as EyebrowIcon } from './EyebrowIcon'

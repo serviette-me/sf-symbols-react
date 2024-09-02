@@ -1,0 +1,1 @@
+export { default as SumIcon } from './SumIcon'

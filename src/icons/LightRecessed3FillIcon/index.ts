@@ -1,0 +1,1 @@
+export { default as LightRecessed3FillIcon } from './LightRecessed3FillIcon'

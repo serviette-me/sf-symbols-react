@@ -1,0 +1,1 @@
+export { default as Person2CropSquareStackFillIcon } from './Person2CropSquareStackFillIcon'

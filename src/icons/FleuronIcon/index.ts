@@ -1,0 +1,1 @@
+export { default as FleuronIcon } from './FleuronIcon'

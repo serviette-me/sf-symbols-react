@@ -1,0 +1,1 @@
+export { default as Square3Layers3dBottomFilledIcon } from './Square3Layers3dBottomFilledIcon'

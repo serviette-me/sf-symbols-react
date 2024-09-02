@@ -1,0 +1,1 @@
+export { default as GreaterthanSquareFillIcon } from './GreaterthanSquareFillIcon'

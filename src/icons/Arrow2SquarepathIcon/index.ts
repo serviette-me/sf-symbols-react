@@ -1,0 +1,1 @@
+export { default as Arrow2SquarepathIcon } from './Arrow2SquarepathIcon'

@@ -1,0 +1,1 @@
+export { default as PersonWave2FillIcon } from './PersonWave2FillIcon'

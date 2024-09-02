@@ -1,0 +1,1 @@
+export { default as BackwardCircleFillIcon } from './BackwardCircleFillIcon'

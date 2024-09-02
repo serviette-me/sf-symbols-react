@@ -1,0 +1,1 @@
+export { default as CircleRighthalfFilledInverseIcon } from './CircleRighthalfFilledInverseIcon'

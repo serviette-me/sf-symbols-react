@@ -1,0 +1,1 @@
+export { default as Person2BadgeKeyFillIcon } from './Person2BadgeKeyFillIcon'

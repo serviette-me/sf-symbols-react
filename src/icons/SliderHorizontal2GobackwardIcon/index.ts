@@ -1,0 +1,1 @@
+export { default as SliderHorizontal2GobackwardIcon } from './SliderHorizontal2GobackwardIcon'

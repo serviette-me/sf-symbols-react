@@ -1,0 +1,1 @@
+export { default as PoweroutletTypeHSquareFillIcon } from './PoweroutletTypeHSquareFillIcon'

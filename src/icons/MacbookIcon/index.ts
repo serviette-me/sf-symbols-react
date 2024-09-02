@@ -1,0 +1,1 @@
+export { default as MacbookIcon } from './MacbookIcon'

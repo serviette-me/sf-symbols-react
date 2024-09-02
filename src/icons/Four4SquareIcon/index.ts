@@ -1,0 +1,1 @@
+export { default as Four4SquareIcon } from './Four4SquareIcon'

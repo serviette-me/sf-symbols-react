@@ -1,0 +1,1 @@
+export { default as SidebarRightIcon } from './SidebarRightIcon'

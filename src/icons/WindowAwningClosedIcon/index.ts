@@ -1,0 +1,1 @@
+export { default as WindowAwningClosedIcon } from './WindowAwningClosedIcon'

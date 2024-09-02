@@ -1,0 +1,1 @@
+export { default as ShoeFillIcon } from './ShoeFillIcon'

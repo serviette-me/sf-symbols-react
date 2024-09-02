@@ -1,0 +1,1 @@
+export { default as ExclamationmarkArrowTriangle2CirclepathIcon } from './ExclamationmarkArrowTriangle2CirclepathIcon'

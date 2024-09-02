@@ -1,0 +1,1 @@
+export { default as MicAndSignalMeterFillIcon } from './MicAndSignalMeterFillIcon'

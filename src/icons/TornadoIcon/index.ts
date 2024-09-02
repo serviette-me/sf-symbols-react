@@ -1,0 +1,1 @@
+export { default as TornadoIcon } from './TornadoIcon'

@@ -1,0 +1,1 @@
+export { default as MirrorSideLeftAndArrowTurnDownRightIcon } from './MirrorSideLeftAndArrowTurnDownRightIcon'

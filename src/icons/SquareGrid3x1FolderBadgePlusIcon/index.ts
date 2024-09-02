@@ -1,0 +1,1 @@
+export { default as SquareGrid3x1FolderBadgePlusIcon } from './SquareGrid3x1FolderBadgePlusIcon'

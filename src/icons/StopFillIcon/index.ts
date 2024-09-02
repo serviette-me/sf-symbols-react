@@ -1,0 +1,1 @@
+export { default as StopFillIcon } from './StopFillIcon'

@@ -1,0 +1,1 @@
+export { default as ArrowUpBinIcon } from './ArrowUpBinIcon'

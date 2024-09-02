@@ -1,0 +1,1 @@
+export { default as FCursiveCircleFillIcon } from './FCursiveCircleFillIcon'

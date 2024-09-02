@@ -1,0 +1,1 @@
+export { default as TengesignCircleIcon } from './TengesignCircleIcon'

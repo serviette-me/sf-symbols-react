@@ -1,0 +1,1 @@
+export { default as PlusRectangleFillIcon } from './PlusRectangleFillIcon'

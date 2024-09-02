@@ -1,0 +1,1 @@
+export { default as Line3CrossedSwirlCircleFillIcon } from './Line3CrossedSwirlCircleFillIcon'

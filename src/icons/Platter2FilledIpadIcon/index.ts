@@ -1,0 +1,1 @@
+export { default as Platter2FilledIpadIcon } from './Platter2FilledIpadIcon'

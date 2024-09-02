@@ -1,0 +1,1 @@
+export { default as DialLowFillIcon } from './DialLowFillIcon'

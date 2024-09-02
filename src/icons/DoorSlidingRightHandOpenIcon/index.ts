@@ -1,0 +1,1 @@
+export { default as DoorSlidingRightHandOpenIcon } from './DoorSlidingRightHandOpenIcon'

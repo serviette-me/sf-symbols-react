@@ -1,0 +1,1 @@
+export { default as FrancsignCircleFillIcon } from './FrancsignCircleFillIcon'

@@ -1,0 +1,1 @@
+export { default as TrophyIcon } from './TrophyIcon'

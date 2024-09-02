@@ -1,0 +1,1 @@
+export { default as BahtsignSquareIcon } from './BahtsignSquareIcon'

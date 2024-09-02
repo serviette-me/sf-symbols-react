@@ -1,0 +1,1 @@
+export { default as MFourButtonHorizontalFillIcon } from './MFourButtonHorizontalFillIcon'

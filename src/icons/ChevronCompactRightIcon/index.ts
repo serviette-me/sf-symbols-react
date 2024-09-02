@@ -1,0 +1,1 @@
+export { default as ChevronCompactRightIcon } from './ChevronCompactRightIcon'

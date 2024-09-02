@@ -1,0 +1,1 @@
+export { default as Repeat1Icon } from './Repeat1Icon'

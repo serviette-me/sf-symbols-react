@@ -1,0 +1,1 @@
+export { default as FanSlashIcon } from './FanSlashIcon'

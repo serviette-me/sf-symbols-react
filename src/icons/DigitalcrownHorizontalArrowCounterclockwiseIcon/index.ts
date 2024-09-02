@@ -1,0 +1,1 @@
+export { default as DigitalcrownHorizontalArrowCounterclockwiseIcon } from './DigitalcrownHorizontalArrowCounterclockwiseIcon'

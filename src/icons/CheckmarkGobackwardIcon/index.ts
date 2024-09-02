@@ -1,0 +1,1 @@
+export { default as CheckmarkGobackwardIcon } from './CheckmarkGobackwardIcon'

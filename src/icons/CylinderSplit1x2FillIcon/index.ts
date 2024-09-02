@@ -1,0 +1,1 @@
+export { default as CylinderSplit1x2FillIcon } from './CylinderSplit1x2FillIcon'

@@ -1,0 +1,1 @@
+export { default as Move3dIcon } from './Move3dIcon'

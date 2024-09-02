@@ -1,0 +1,1 @@
+export { default as LightswitchOffIcon } from './LightswitchOffIcon'

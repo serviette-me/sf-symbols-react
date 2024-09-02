@@ -1,0 +1,1 @@
+export { default as DiamondCircleIcon } from './DiamondCircleIcon'

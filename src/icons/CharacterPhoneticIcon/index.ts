@@ -1,0 +1,1 @@
+export { default as CharacterPhoneticIcon } from './CharacterPhoneticIcon'

@@ -1,0 +1,1 @@
+export { default as OvalIcon } from './OvalIcon'

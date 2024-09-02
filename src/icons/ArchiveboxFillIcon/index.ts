@@ -1,0 +1,1 @@
+export { default as ArchiveboxFillIcon } from './ArchiveboxFillIcon'

@@ -1,0 +1,1 @@
+export { default as GiftFillIcon } from './GiftFillIcon'

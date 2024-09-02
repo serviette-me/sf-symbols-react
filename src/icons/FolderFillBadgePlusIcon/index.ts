@@ -1,0 +1,1 @@
+export { default as FolderFillBadgePlusIcon } from './FolderFillBadgePlusIcon'

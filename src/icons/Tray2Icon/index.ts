@@ -1,0 +1,1 @@
+export { default as Tray2Icon } from './Tray2Icon'

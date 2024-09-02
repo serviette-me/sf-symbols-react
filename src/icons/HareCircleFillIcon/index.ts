@@ -1,0 +1,1 @@
+export { default as HareCircleFillIcon } from './HareCircleFillIcon'

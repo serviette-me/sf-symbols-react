@@ -1,0 +1,1 @@
+export { default as MusicQuarternote3Icon } from './MusicQuarternote3Icon'

@@ -1,0 +1,1 @@
+export { default as ExternaldriveBadgeWifiIcon } from './ExternaldriveBadgeWifiIcon'

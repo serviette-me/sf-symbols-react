@@ -1,0 +1,1 @@
+export { default as PersonBadgeClockIcon } from './PersonBadgeClockIcon'

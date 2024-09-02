@@ -1,0 +1,1 @@
+export { default as Person2Icon } from './Person2Icon'

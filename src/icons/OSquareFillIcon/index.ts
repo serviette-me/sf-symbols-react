@@ -1,0 +1,1 @@
+export { default as OSquareFillIcon } from './OSquareFillIcon'

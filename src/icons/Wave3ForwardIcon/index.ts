@@ -1,0 +1,1 @@
+export { default as Wave3ForwardIcon } from './Wave3ForwardIcon'

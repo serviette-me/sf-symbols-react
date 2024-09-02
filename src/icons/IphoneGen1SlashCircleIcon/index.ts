@@ -1,0 +1,1 @@
+export { default as IphoneGen1SlashCircleIcon } from './IphoneGen1SlashCircleIcon'

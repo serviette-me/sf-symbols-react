@@ -1,0 +1,1 @@
+export { default as PersonWave2Icon } from './PersonWave2Icon'

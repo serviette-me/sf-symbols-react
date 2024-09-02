@@ -1,0 +1,1 @@
+export { default as ExclamationmarkShieldFillIcon } from './ExclamationmarkShieldFillIcon'

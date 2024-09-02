@@ -1,0 +1,1 @@
+export { default as RectangleSlashIcon } from './RectangleSlashIcon'

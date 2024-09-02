@@ -1,0 +1,1 @@
+export { default as CruzeirosignIcon } from './CruzeirosignIcon'

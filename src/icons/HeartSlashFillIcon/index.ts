@@ -1,0 +1,1 @@
+export { default as HeartSlashFillIcon } from './HeartSlashFillIcon'

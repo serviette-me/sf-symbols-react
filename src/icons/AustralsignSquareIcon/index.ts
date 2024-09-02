@@ -1,0 +1,1 @@
+export { default as AustralsignSquareIcon } from './AustralsignSquareIcon'

@@ -1,0 +1,1 @@
+export { default as CameraFiltersIcon } from './CameraFiltersIcon'

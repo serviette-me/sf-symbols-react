@@ -1,0 +1,1 @@
+export { default as PersonCropRectangleFillIcon } from './PersonCropRectangleFillIcon'

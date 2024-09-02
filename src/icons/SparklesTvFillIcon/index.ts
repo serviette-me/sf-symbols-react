@@ -1,0 +1,1 @@
+export { default as SparklesTvFillIcon } from './SparklesTvFillIcon'

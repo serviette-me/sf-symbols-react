@@ -1,0 +1,1 @@
+export { default as RectangleDashedIcon } from './RectangleDashedIcon'

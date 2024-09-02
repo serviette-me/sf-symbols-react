@@ -1,0 +1,1 @@
+export { default as CarRearWavesUpFillIcon } from './CarRearWavesUpFillIcon'

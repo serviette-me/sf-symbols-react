@@ -1,0 +1,1 @@
+export { default as IphoneGen1Icon } from './IphoneGen1Icon'

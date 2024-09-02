@@ -1,0 +1,1 @@
+export { default as IpodIcon } from './IpodIcon'

@@ -1,0 +1,1 @@
+export { default as GearshapeArrowTriangle2CirclepathIcon } from './GearshapeArrowTriangle2CirclepathIcon'

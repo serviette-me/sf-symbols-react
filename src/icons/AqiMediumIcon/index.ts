@@ -1,0 +1,1 @@
+export { default as AqiMediumIcon } from './AqiMediumIcon'

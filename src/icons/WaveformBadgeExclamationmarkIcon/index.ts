@@ -1,0 +1,1 @@
+export { default as WaveformBadgeExclamationmarkIcon } from './WaveformBadgeExclamationmarkIcon'

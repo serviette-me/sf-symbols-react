@@ -1,0 +1,1 @@
+export { default as CircleTophalfFilledIcon } from './CircleTophalfFilledIcon'

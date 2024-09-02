@@ -1,0 +1,1 @@
+export { default as CursorarrowClick2Icon } from './CursorarrowClick2Icon'

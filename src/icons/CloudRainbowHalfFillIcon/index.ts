@@ -1,0 +1,1 @@
+export { default as CloudRainbowHalfFillIcon } from './CloudRainbowHalfFillIcon'

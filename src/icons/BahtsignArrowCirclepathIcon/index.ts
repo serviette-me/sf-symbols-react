@@ -1,0 +1,1 @@
+export { default as BahtsignArrowCirclepathIcon } from './BahtsignArrowCirclepathIcon'

@@ -1,0 +1,1 @@
+export { default as Person2SlashIcon } from './Person2SlashIcon'

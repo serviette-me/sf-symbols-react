@@ -1,0 +1,1 @@
+export { default as Lightbulb2FillIcon } from './Lightbulb2FillIcon'

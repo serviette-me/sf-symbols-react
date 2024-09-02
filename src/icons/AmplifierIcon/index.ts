@@ -1,0 +1,1 @@
+export { default as AmplifierIcon } from './AmplifierIcon'

@@ -1,0 +1,1 @@
+export { default as One1CircleFillIcon } from './One1CircleFillIcon'

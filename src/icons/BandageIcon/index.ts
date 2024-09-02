@@ -1,0 +1,1 @@
+export { default as BandageIcon } from './BandageIcon'

@@ -1,0 +1,1 @@
+export { default as SinkIcon } from './SinkIcon'

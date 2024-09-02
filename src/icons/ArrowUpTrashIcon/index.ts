@@ -1,0 +1,1 @@
+export { default as ArrowUpTrashIcon } from './ArrowUpTrashIcon'

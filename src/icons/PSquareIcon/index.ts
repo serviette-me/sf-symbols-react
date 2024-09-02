@@ -1,0 +1,1 @@
+export { default as PSquareIcon } from './PSquareIcon'

@@ -1,0 +1,1 @@
+export { default as RectangleInsetFilledAndCursorarrowIcon } from './RectangleInsetFilledAndCursorarrowIcon'

@@ -1,0 +1,1 @@
+export { default as PointTopleftDownToPointBottomrightCurvepathIcon } from './PointTopleftDownToPointBottomrightCurvepathIcon'

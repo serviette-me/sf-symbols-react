@@ -1,0 +1,1 @@
+export { default as BackwardEndFillIcon } from './BackwardEndFillIcon'

@@ -1,0 +1,1 @@
+export { default as Line3HorizontalDecreaseIcon } from './Line3HorizontalDecreaseIcon'

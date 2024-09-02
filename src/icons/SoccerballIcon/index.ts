@@ -1,0 +1,1 @@
+export { default as SoccerballIcon } from './SoccerballIcon'

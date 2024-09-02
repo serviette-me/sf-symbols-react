@@ -1,0 +1,1 @@
+export { default as LivephotoIcon } from './LivephotoIcon'

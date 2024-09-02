@@ -1,0 +1,1 @@
+export { default as RectangleRatio3To4FillIcon } from './RectangleRatio3To4FillIcon'

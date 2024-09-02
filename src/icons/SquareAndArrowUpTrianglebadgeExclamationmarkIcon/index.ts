@@ -1,0 +1,1 @@
+export { default as SquareAndArrowUpTrianglebadgeExclamationmarkIcon } from './SquareAndArrowUpTrianglebadgeExclamationmarkIcon'

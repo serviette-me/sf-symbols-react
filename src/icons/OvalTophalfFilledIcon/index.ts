@@ -1,0 +1,1 @@
+export { default as OvalTophalfFilledIcon } from './OvalTophalfFilledIcon'

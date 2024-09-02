@@ -1,0 +1,1 @@
+export { default as BubblesAndSparklesFillIcon } from './BubblesAndSparklesFillIcon'

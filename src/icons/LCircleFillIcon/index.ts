@@ -1,0 +1,1 @@
+export { default as LCircleFillIcon } from './LCircleFillIcon'

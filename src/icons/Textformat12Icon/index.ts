@@ -1,0 +1,1 @@
+export { default as Textformat12Icon } from './Textformat12Icon'

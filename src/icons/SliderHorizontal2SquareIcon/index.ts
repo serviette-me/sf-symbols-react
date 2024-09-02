@@ -1,0 +1,1 @@
+export { default as SliderHorizontal2SquareIcon } from './SliderHorizontal2SquareIcon'

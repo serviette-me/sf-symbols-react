@@ -1,0 +1,1 @@
+export { default as DigitalcrownHorizontalPressFillIcon } from './DigitalcrownHorizontalPressFillIcon'

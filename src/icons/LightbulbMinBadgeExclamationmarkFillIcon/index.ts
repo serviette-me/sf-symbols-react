@@ -1,0 +1,1 @@
+export { default as LightbulbMinBadgeExclamationmarkFillIcon } from './LightbulbMinBadgeExclamationmarkFillIcon'

@@ -1,0 +1,1 @@
+export { default as RectangleBadgePersonCropIcon } from './RectangleBadgePersonCropIcon'

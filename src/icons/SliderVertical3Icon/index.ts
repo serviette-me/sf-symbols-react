@@ -1,0 +1,1 @@
+export { default as SliderVertical3Icon } from './SliderVertical3Icon'

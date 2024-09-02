@@ -1,0 +1,1 @@
+export { default as PencilTipCropCircleBadgeArrowForwardIcon } from './PencilTipCropCircleBadgeArrowForwardIcon'

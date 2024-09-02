@@ -1,0 +1,1 @@
+export { default as CircleLefthalfStripedHorizontalInverseIcon } from './CircleLefthalfStripedHorizontalInverseIcon'

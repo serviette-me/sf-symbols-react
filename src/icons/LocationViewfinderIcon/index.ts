@@ -1,0 +1,1 @@
+export { default as LocationViewfinderIcon } from './LocationViewfinderIcon'

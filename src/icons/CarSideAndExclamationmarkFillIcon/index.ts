@@ -1,0 +1,1 @@
+export { default as CarSideAndExclamationmarkFillIcon } from './CarSideAndExclamationmarkFillIcon'

@@ -1,0 +1,1 @@
+export { default as ArrowUpLeftCircleFillIcon } from './ArrowUpLeftCircleFillIcon'

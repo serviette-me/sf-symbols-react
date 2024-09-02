@@ -1,0 +1,1 @@
+export { default as TrapezoidAndLineHorizontalIcon } from './TrapezoidAndLineHorizontalIcon'

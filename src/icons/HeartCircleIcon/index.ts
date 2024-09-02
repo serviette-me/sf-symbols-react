@@ -1,0 +1,1 @@
+export { default as HeartCircleIcon } from './HeartCircleIcon'

@@ -1,0 +1,1 @@
+export { default as TheatermaskAndPaintbrushIcon } from './TheatermaskAndPaintbrushIcon'

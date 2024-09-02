@@ -1,0 +1,1 @@
+export { default as DistributeVerticalCenterFillIcon } from './DistributeVerticalCenterFillIcon'

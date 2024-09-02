@@ -1,0 +1,1 @@
+export { default as HandPointUpLeftFillIcon } from './HandPointUpLeftFillIcon'

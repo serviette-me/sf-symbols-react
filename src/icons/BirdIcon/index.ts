@@ -1,0 +1,1 @@
+export { default as BirdIcon } from './BirdIcon'

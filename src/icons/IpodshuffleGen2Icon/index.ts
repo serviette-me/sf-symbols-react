@@ -1,0 +1,1 @@
+export { default as IpodshuffleGen2Icon } from './IpodshuffleGen2Icon'

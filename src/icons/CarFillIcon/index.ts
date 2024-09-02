@@ -1,0 +1,1 @@
+export { default as CarFillIcon } from './CarFillIcon'

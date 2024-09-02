@@ -1,0 +1,1 @@
+export { default as GaugeOpenWithLinesNeedle33percentAndArrowtriangleFrom0percentTo50percentIcon } from './GaugeOpenWithLinesNeedle33percentAndArrowtriangleFrom0percentTo50percentIcon'

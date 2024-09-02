@@ -1,0 +1,1 @@
+export { default as SafariIcon } from './SafariIcon'

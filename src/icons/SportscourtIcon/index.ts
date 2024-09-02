@@ -1,0 +1,1 @@
+export { default as SportscourtIcon } from './SportscourtIcon'

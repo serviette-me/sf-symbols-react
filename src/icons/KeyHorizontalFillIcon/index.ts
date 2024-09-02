@@ -1,0 +1,1 @@
+export { default as KeyHorizontalFillIcon } from './KeyHorizontalFillIcon'

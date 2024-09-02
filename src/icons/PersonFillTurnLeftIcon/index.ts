@@ -1,0 +1,1 @@
+export { default as PersonFillTurnLeftIcon } from './PersonFillTurnLeftIcon'

@@ -1,0 +1,1 @@
+export { default as DanishkronesignCircleIcon } from './DanishkronesignCircleIcon'

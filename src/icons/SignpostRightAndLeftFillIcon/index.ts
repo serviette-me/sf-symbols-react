@@ -1,0 +1,1 @@
+export { default as SignpostRightAndLeftFillIcon } from './SignpostRightAndLeftFillIcon'

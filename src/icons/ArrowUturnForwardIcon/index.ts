@@ -1,0 +1,1 @@
+export { default as ArrowUturnForwardIcon } from './ArrowUturnForwardIcon'

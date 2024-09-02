@@ -1,0 +1,1 @@
+export { default as DocOnClipboardFillIcon } from './DocOnClipboardFillIcon'

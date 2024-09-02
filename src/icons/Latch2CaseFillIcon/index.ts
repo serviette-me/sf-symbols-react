@@ -1,0 +1,1 @@
+export { default as Latch2CaseFillIcon } from './Latch2CaseFillIcon'

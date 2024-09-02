@@ -1,0 +1,1 @@
+export { default as QuoteBubbleFillIcon } from './QuoteBubbleFillIcon'

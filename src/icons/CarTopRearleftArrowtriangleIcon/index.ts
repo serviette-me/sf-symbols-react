@@ -1,0 +1,1 @@
+export { default as CarTopRearleftArrowtriangleIcon } from './CarTopRearleftArrowtriangleIcon'

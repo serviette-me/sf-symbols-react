@@ -1,0 +1,1 @@
+export { default as LampTableIcon } from './LampTableIcon'

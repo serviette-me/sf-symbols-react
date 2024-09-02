@@ -1,0 +1,1 @@
+export { default as OctagonFillIcon } from './OctagonFillIcon'

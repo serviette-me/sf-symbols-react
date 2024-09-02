@@ -1,0 +1,1 @@
+export { default as MicBadgeXmarkIcon } from './MicBadgeXmarkIcon'

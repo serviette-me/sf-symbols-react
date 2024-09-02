@@ -1,0 +1,1 @@
+export { default as ArrowUpRightAndArrowDownLeftRectangleIcon } from './ArrowUpRightAndArrowDownLeftRectangleIcon'

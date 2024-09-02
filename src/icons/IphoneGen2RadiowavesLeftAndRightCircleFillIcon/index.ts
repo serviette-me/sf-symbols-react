@@ -1,0 +1,1 @@
+export { default as IphoneGen2RadiowavesLeftAndRightCircleFillIcon } from './IphoneGen2RadiowavesLeftAndRightCircleFillIcon'

@@ -1,0 +1,1 @@
+export { default as PlusSquareOnSquareIcon } from './PlusSquareOnSquareIcon'
