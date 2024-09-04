@@ -1,6 +1,6 @@
-node_modules
+package/node_modules
 
-dist
+package/dist
 
-generate
-icons.json
+package/generate
+package/icons.json
