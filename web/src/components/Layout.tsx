@@ -1,9 +1,9 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import clsx from 'clsx'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import clsx from 'clsx'
+import { useEffect, useState } from 'react'
 
 import { Hero } from '@/components/Hero'
 import { Logo, Logomark } from '@/components/Logo'
@@ -47,7 +47,11 @@ function Header() {
         <MobileNavigation />
       </div>
       <div className="relative flex flex-grow basis-0 items-center">
-        <Link href="/" aria-label="Home page">
+        <Link
+          href="/"
+          aria-label="Home page"
+          className="flex items-center gap-x-2"
+        >
           <Logomark className="h-9 w-9 lg:hidden" />
           <Logo className="hidden h-9 w-auto fill-slate-700 lg:block dark:fill-sky-100" />
         </Link>
@@ -67,7 +71,7 @@ function Header() {
 
 export function Layout({ children }: { children: React.ReactNode }) {
   let pathname = usePathname()
-  let isHomePage = pathname === '/'
+  let isHomePage = pathname === '/home'
 
   return (
     <div className="flex w-full flex-col">

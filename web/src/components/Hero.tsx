@@ -1,7 +1,7 @@
-import { Fragment } from 'react'
-import Image from 'next/image'
 import clsx from 'clsx'
+import Image from 'next/image'
 import { Highlight } from 'prism-react-renderer'
+import { Fragment } from 'react'
 
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
@@ -9,16 +9,19 @@ import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
 
 const codeLanguage = 'javascript'
-const code = `export default {
-  strategy: 'predictive',
-  engine: {
-    cpus: 12,
-    backups: ['./storage/cache.wtf'],
-  },
+const code = `import { SquareStack3dUpIcon } from '@serviette/sf-symbols-react'
+
+export default function Logo() {
+  return (
+    <div className="flex items-center gap-2">
+      <SquareStack3dUpIcon className="h-5 w-5 dark:text-white" weight="bold" />
+      <span className="text-lg font-bold dark:text-white">SF Symbols React</span>
+    </div>
+  )
 }`
 
 const tabs = [
-  { name: 'cache-advance.config.js', isActive: true },
+  { name: 'Logo.tsx', isActive: true },
   { name: 'package.json', isActive: false },
 ]
 
@@ -49,15 +52,24 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                Never miss the cache again.
+                SF Symbols for the Web
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Cache every single thing your app could ever do ahead of time,
-                so your code never even has to run at all.
+                Use Apple&apos;s SF Symbols in your React projects.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
+                <Button
+                  className="transition-all duration-300"
+                  href="/reference"
+                >
+                  View All Symbols
+                </Button>
+                <Button
+                  className="transition-all duration-300"
+                  href="https://github.com/serviette-me/sf-symbols-react"
+                  target="_blank"
+                  variant="secondary"
+                >
                   View on GitHub
                 </Button>
               </div>
